@@ -381,25 +381,6 @@
     },
     {
       "chainId": 101,
-      "address": "3y96tWmXBu6L6y8nZ4dvcSXS44yfw68NvPJLkXFjwURo",
-      "symbol": "STER",
-      "name": "Sterling",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3y96tWmXBu6L6y8nZ4dvcSXS44yfw68NvPJLkXFjwURo/logo.png",
-      "tags": [
-        "stake-pool-token",
-        "utility-token",
-        "security-token",
-        "community-token",
-        "Sterling"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/BQtjYYh3us",
-        
-      }
-    },
-    {
-      "chainId": 101,
       "address": "48iGP5MUTZ8DCfDvZ9dpgKySP2iekQ3zPKZM8AhDjEmw",
       "symbol": "VIRAL",
       "name": "Viraverse",
@@ -55526,6 +55507,25 @@
         "currency-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "3y96tWmXBu6L6y8nZ4dvcSXS44yfw68NvPJLkXFjwURo",
+      "symbol": "STER",
+      "name": "Sterling",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3y96tWmXBu6L6y8nZ4dvcSXS44yfw68NvPJLkXFjwURo/logo.png",
+      "tags": [
+        "stake-pool-token",
+        "utility-token",
+        "security-token",
+        "community-token",
+        "Sterling"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/BQtjYYh3us",
+        
+      }
     },
     {
       "chainId": 101,
